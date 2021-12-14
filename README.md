@@ -2,7 +2,7 @@
 
 Porfólio pessoal desenvolvido a fins educacionais e avaliativo.
 
-Linguagens utilizadas: Python, Flask, Html, CSS.
+Linguagens utilizadas: Python, Flask, Html, CSS e BootsTrap.
 
 
 <img  width=" 580px" src="https://user-images.githubusercontent.com/37638947/145910109-ca744636-a75e-4168-bb59-85c760066fa6.png"/>
